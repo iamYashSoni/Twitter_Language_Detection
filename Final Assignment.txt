@@ -1,0 +1,22 @@
+Submission to dropbox only needs to be a link to the cloud front url and the password you created.
+
+Grading breakdown is as follows:
+
+( 25 points ) Static password protected server-less site using the following AWS tools:
+Lambda (Using typescript or NodeJS)
+CloudFront
+S3
+IAMs (Optional)
+ 
+
+( 40 points )  Site Content:
+Video of you presenting you project and analyzing your code.
+Instruction set on how you created your server-less host for your site
+Link to a PDF describing your project
+Link to source code you used in your project
+Link to the source code you used for Lambda functions
+ 
+
+( 35 points ) Main Project Source Code:
+
+***If your solution uses all 4 you will receive and extra 10 points on your project.
